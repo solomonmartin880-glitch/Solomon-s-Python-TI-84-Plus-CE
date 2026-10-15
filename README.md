@@ -37,8 +37,7 @@ any required setup. Keep a backup of important calculator files before
 making changes.
 Repository contents
 - README.md --- project overview and usage notes
-- SOLOMON.8xp --- calculator program file (add this file to the
-  repository)
+- SOLOMON.8xp --- calculator program file 
 Contributions and feedback
 Suggestions, bug reports, and feature ideas are welcome. When reporting
 an issue, include your calculator model, operating-system version, what
