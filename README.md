@@ -46,3 +46,4 @@ Disclaimer
 Solomon's Python is an independent project and is not affiliated with,
 endorsed by, or supported by Texas Instruments. Python is a trademark of
 the Python Software Foundation.
+(https://www.cemetech.net/downloads/files/3143/x4286)
